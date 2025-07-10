@@ -1,10 +1,19 @@
-- 👋 Hi, I’m @eliandrolima. I'm a doctor and full stack developer.
-- 👀 I’m interested in Healthcare IT, primarily in FHIR development.
-- 🌱 I’m currently learning advanced topics in FHIR and Python.
-- 💞️ I’m looking to collaborate on the Digital Health Industry.
-- 📫 How to reach me: elimaesf@gmail.com and https://www.linkedin.com/in/eliandrolima78/
+## About me
 
-<!---
-eliandrolima/eliandrolima is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+👋 Hello! I'm **Eliandro Lima**, a doctor and full-stack developer with a strong interest in **Artificial Intelligence applied to Healthcare**.
+
+I'm currently studying modern frameworks like LangChain and OpenAI solutions.
+
+### **My areas of expertise and interest:**
+
+* Intelligent pipelines with generative AI and NLP for healthcare
+* Integration and standardization using HL7 FHIR R4, LOINC, and SNOMED-CT
+* Web applications and APIs for clinical, research, and open innovation purposes
+
+I am always open to new partnerships, collaborations, and challenges in digital health and innovative technologies.
+
+---
+
+**Questions, suggestions, or interested in collaborating?**
+Connect with me on [LinkedIn](https://www.linkedin.com/in/eliandrolima78) or send me a message here!
+
